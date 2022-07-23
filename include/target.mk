@@ -49,10 +49,12 @@ DEFAULT_PACKAGES.router:=\
 	iptables \
 	ppp \
 	ppp-mod-pppoe \
+	odhcp6c \
+	odhcp6d-ipv6only \
 	luci-newapi block-mount coremark kmod-nf-nathelper kmod-nf-nathelper-extra kmod-ipt-raw kmod-tun kmod-inet-diag iptables-mod-tproxy iptables-mod-extra \
 	default-settings luci luci-app-ddns luci-app-upnp luci-app-autoreboot \
 	luci-app-filetransfer luci-app-eqos luci-app-arpbind \
-	luci-app-ramfree luci-app-unblockneteasemusic \
+	luci-app-ramfree \
 	luci-app-advanced luci-app-argon-config luci-theme-argon luci-app-ttyd \
 	luci-app-turboacc ddns-scripts_aliyun ddns-scripts_dnspod ddns-scripts_cloudflare.com-v4
 
