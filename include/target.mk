@@ -51,6 +51,7 @@ DEFAULT_PACKAGES.router:=\
 	ppp-mod-pppoe \
 	odhcp6c \
 	odhcp6d-ipv6only \
+	ip6tables-mod-nat \
 	luci-newapi block-mount coremark kmod-nf-nathelper kmod-nf-nathelper-extra kmod-ipt-raw kmod-tun kmod-inet-diag iptables-mod-tproxy iptables-mod-extra \
 	default-settings luci luci-app-ddns luci-app-upnp luci-app-autoreboot \
 	luci-app-filetransfer luci-app-eqos luci-app-arpbind \
